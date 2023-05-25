@@ -7,7 +7,7 @@
 ⚙️ PHP | Laravel | JavaScript | HTML | CSS | MySQL | AJAX | jQuery
 
 ## Get in Touch
-🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+🌐 LinkedIn: [LinkedIn Profile](https://in.linkedin.com/in/sukhbir-singh-bal)
 ✉️ Email: Sukhbirsingh4259@gmail.com
 
 I'm always excited to connect with fellow developers, collaborate on projects, or discuss new opportunities. Feel free to reach out to me via LinkedIn or email.
